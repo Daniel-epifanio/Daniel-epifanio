@@ -1,5 +1,5 @@
 ## Olá, meu nome é Daniel Epifanio!
-- Faço Bacharelado em Tecnologia da Informação na UFERSA, com conhecimentos iniciais em C. Tenho 19 anos, e busco aprimorar meus conhecimentos em estrutura de dados, lógica de programação e na criação de jogos. 
+- Faço Bacharelado em Tecnologia da Informação na UFERSA, com conhecimentos iniciais em C. Tenho 20 anos, e busco aprimorar meus conhecimentos em estrutura de dados, lógica de programação e na criação de jogos. 
 
 ## 📊 Estatísticas do GitHub
 
